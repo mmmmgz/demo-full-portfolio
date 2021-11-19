@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto&display=swap');
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.lato{
+    font-family: 'Lato', sans-serif;
+}
+#header .fixed{
+    width: 500px;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url(../images/istockphoto-1093110112-612x612.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#header .fixed img{
+    width: 180px;
+
+
+}
